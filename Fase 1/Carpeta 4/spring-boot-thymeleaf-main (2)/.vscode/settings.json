@@ -1,0 +1,7 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "commentTranslate.targetLanguage": "es",
+    "java.project.sourcePaths": [
+        "Act3/templates"
+    ]
+}

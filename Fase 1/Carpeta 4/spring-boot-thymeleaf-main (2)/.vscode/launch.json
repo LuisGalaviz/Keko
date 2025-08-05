@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Class",
+            "request": "launch",
+            "mainClass": "Class",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "nombre",
+            "request": "launch",
+            "mainClass": "nombre",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-AppMain<ActividadFinal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "net.codejava.AppMain",
+            "projectName": "ActividadFinal",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
